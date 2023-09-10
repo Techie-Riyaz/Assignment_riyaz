@@ -1,0 +1,43 @@
+.form-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 70px;
+  width: 400px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.card{
+  background: #fff;
+  border: 2px solid rgba(0,0,0,.125);
+  border-radius: 4px;
+  margin: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}
+
+.card-body{
+  text-align: center;
+  width:250px;
+  height:200px;
+  padding: 10px;
+  margin-bottom:10px;
+}
+.flex-cont{
+  display: flex;
+  flex-wrap: wrap ;
+}
+
